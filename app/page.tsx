@@ -20,7 +20,7 @@ export default function Home() {
   }, [])
 
   return (
-    <>
+    <>555555555555555555555
       {checkLogin !== 'Logined' ? <Login /> : `Logined`}
 
       {/* <div>
